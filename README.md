@@ -1,4 +1,4 @@
-OpenGL_Model_of_Solar_System
+OpenGL Model of Solar System
 ============================
 
 A simple Solar System up to Jupiter written in C++ and OpenGL
